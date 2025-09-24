@@ -1,10 +1,10 @@
 # Inventory Management (Java)
 
-**Short description:** A simple, console-based Inventory Management system implemented in Java. It demonstrates object-oriented design with classes for `Product`, `Inventory`, `InventoryManager`, and a console-driven `InventoryManagement` application that allows adding, removing, and listing products.
+A simple, console-based Inventory Management system implemented in Java. It demonstrates object-oriented design with classes for `Product`, `Inventory`, `InventoryManager`, and a console-driven `InventoryManagement` application that allows adding, removing, and listing products.
 
 ---
 
-## Project Summary (auto-generated analysis)
+## Project Summary
 
 I inspected the project archive and found a single Java source file that contains multiple classes implementing the inventory system. The project uses only core Java (no external libraries) and was developed in an IDE (IntelliJ), which produced compiled `.class` files in the `out/` folder. The project structure (extracted) includes compiled classes and IntelliJ config files, plus the single source file under `src/`.
 
