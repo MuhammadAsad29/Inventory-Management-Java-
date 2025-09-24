@@ -5,8 +5,7 @@ A simple, console-based Inventory Management system implemented in Java. It demo
 ---
 
 ## Project Summary
-
-I inspected the project archive and found a single Java source file that contains multiple classes implementing the inventory system. The project uses only core Java (no external libraries) and was developed in an IDE (IntelliJ), which produced compiled `.class` files in the `out/` folder. The project structure (extracted) includes compiled classes and IntelliJ config files, plus the single source file under `src/`.
+The project uses only core Java (no external libraries) and was developed in an IDE (IntelliJ), which produced compiled `.class` files in the `out/` folder. The project structure (extracted) includes compiled classes and IntelliJ config files, plus the single source file under `src/`.
 
 **Files found (important):**
 - `src/InventoryManagement.java` — main Java source containing classes:
@@ -110,6 +109,7 @@ Product added successfully.
 ---
 
 ## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
 This project is provided as-is for educational purposes.
 
 ---
